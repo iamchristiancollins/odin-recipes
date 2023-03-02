@@ -1,7 +1,7 @@
 body {
     background-color: aliceblue;
 }
-img{
-    height: 200px;
-    width: 200px;
+img {
+    height: auto;
+    width: 400px;
 }
